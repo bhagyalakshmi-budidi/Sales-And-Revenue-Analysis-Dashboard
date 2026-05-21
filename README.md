@@ -97,4 +97,4 @@ This project demonstrates a complete data analytics workflow from raw data to in
 📊 Power BI Dashboard (.pbix)
 📁 Dataset (raw & cleaned)
 📓 Data Cleaning Notebook (.ipynb)
-📸 Dashboard Screenshots
+📸 Dashboard Screenshot
